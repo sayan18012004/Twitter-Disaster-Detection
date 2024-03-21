@@ -24,12 +24,6 @@ With the increasing use of social media, platforms like Twitter provide valuable
     https://github.com/sayan18012004/Twitter-Disaster-Detection.git
     ```
 
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Prepare your dataset: Ensure you have a dataset containing tweets labeled as disaster or non-disaster. Update the file paths in the code accordingly.
